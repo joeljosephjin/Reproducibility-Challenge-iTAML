@@ -17,6 +17,7 @@ This code requires the following:
 * scipy==1.4.1
 * torch==1.4.0
 * torchvision==0.5.0
+* wandb==0.12.1
 
 run `pip3 install -r requirements.txt` to install all the dependencies. 
 
